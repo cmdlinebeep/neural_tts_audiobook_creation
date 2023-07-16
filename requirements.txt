@@ -1,0 +1,1 @@
+boto3  # Amazon's Python SDK, used for AWS Polly.  Also, a term for male phallus in Tagalog (kinda surprised no one at Amazon checked that lol)
